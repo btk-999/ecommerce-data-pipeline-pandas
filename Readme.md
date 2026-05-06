@@ -20,17 +20,15 @@ The pipeline performs:
 ## Project Structure
 
 ecommerce-data-pipeline-pandas/
-│
-├── ingest.py
-├── merge.py
-├── filtering.py
-├── clean.py
-├── transform.py
-├── calc.py
-├── savefile.py
-├── main.py
-└── config.py
-```
+  ingest.py
+  merge.py
+  filtering.py
+  clean.py
+  transform.py
+  calc.py
+  savefile.py
+  main.py
+  config.py
 
 ## Business Logic
 - Filters selected product categories
